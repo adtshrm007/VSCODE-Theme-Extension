@@ -3,7 +3,11 @@
   "displayName": "RagCoder Dark",
   "description": "🎶 A vibrant, musical & tech-inspired dark theme for VS Code",
   "version": "1.0.0",
+<<<<<<< HEAD
   "publisher": "ragcoder-dev",
+=======
+  "publisher": "aditya-ragcoder",
+>>>>>>> 69dc7d58cb9b7fb32db97cb832e5ad440b871189
   "icon": "icon.png",   
               
   "engines": {
