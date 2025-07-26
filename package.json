@@ -1,0 +1,42 @@
+{
+  "name": "ragcoder-dark",
+  "displayName": "RagCoder Dark",
+  "description": "🎶 A vibrant, musical & tech-inspired dark theme for VS Code",
+  "version": "1.0.0",
+  "publisher": "ragcoder-dev",
+  "icon": "icon.png",   
+              
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "theme",
+    "music",
+    "vibrant",
+    "colorful",
+    "tech",
+    "modern"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ragcoder-dark"
+  },
+  "homepage": "https://github.com/yourusername/ragcoder-dark",
+  "bugs": {
+    "url": "https://github.com/yourusername/ragcoder-dark/issues"
+  },
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "RagCoder Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RagCoder Dark-color-theme.json"
+      }
+    ]
+  }
+}

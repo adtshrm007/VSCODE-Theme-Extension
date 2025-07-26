@@ -1,0 +1,10 @@
+.vscode/**
+.vscode-test/**
+.gitignore
+vsc-extension-quickstart.md
+.vscode/
+.git/
+.gitignore
+README.md
+CHANGELOG.md
+*.vsix
