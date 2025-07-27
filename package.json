@@ -22,11 +22,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/ragcoder-dark"
+    "url": "https://github.com/adtshrm007/VSCODE-Theme-Extension"
   },
-  "homepage": "https://github.com/yourusername/ragcoder-dark",
+  "homepage": "https://github.com/adtshrm007/VSCODE-Theme-Extension",
   "bugs": {
-    "url": "https://github.com/yourusername/ragcoder-dark/issues"
+    "url": "https://github.com/adtshrm007/VSCODE-Theme-Extension/issues"
   },
   "license": "MIT",
   "contributes": {
@@ -36,8 +36,6 @@
         "uiTheme": "vs-dark",
         "path": "./themes/RagCoder Dark-color-theme.json"
       }
-    ],
-    "type": "SEE LICENSE IN LICENSE",
-    "url": "https://github.com/adtshrm007/VSCODE-Theme-Extension?tab=MIT-1-ov-file#readme"
+    ]
   }
 }
