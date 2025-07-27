@@ -3,11 +3,7 @@
   "displayName": "RagCoder Dark",
   "description": "🎶 A vibrant, musical & tech-inspired dark theme for VS Code",
   "version": "1.0.0",
-<<<<<<< HEAD
   "publisher": "ragcoder-dev",
-=======
-  "publisher": "aditya-ragcoder",
->>>>>>> 69dc7d58cb9b7fb32db97cb832e5ad440b871189
   "icon": "icon.png",   
               
   "engines": {
@@ -27,13 +23,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/ragcoder-dark"
+    "url": "https://github.com/adtshrm007/VSCODE-Theme-Extension"
   },
-  "homepage": "https://github.com/yourusername/ragcoder-dark",
+  "homepage": "https://github.com/adtshrm007/VSCODE-Theme-Extension",
   "bugs": {
-    "url": "https://github.com/yourusername/ragcoder-dark/issues"
+    "url": "https://github.com/adtshrm007/VSCODE-Theme-Extension/issues"
   },
-  "license": "MIT",
+  "license": {
+    "type": "SEE LICENSE IN LICENSE",
+    "url": "https://github.com/adtshrm007/VSCODE-Theme-Extension/blob/main/LICENSE"
+  },
   "contributes": {
     "themes": [
       {
