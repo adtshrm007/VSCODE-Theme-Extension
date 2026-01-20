@@ -1,22 +1,146 @@
-# 🎧 RagCoder Dark – VS Code Theme
+# VS Code Theme Extension
 
-**RagCoder Dark** is a vibrant, techy, and musical-inspired dark theme for Visual Studio Code. Perfect for creative minds who code with rhythm and color! 🎵
+## 📌 Overview
 
-## ✨ Features
-- 🎨 Colorful & aesthetic syntax highlighting
-- 🧠 Tech-inspired UI panel & tab theming
-- 🎼 Musical color palette for enjoyable coding
+The **VS Code Theme Extension** is a custom-built Visual Studio Code color theme designed to enhance code readability, reduce eye strain, and provide a visually pleasing development experience. The theme follows **accessibility, contrast, and usability guidelines**, making it suitable for long coding sessions.
 
-## 🖼️ Preview
-_Add a screenshot or animated preview here_
+This project demonstrates practical experience with **VS Code extension development**, design systems, accessibility-aware UI decisions, and real-world deployment through the **VS Code Marketplace**.
+
+🔗 **Marketplace:** *[Add link]*
+🔗 **GitHub Repository:** *[Add link]*
+
+---
+
+## 🎯 Goals & Motivation
+
+* Improve code readability across multiple programming languages
+* Reduce eye strain during extended development sessions
+* Apply accessibility-focused color contrast principles
+* Learn the end-to-end process of building, publishing, and maintaining a VS Code extension
+
+---
+
+## 🎨 Theme Design Philosophy
+
+The theme is designed with the following principles in mind:
+
+* **Balanced contrast:** Avoids extreme brightness or dullness
+* **Clear syntax separation:** Distinct colors for keywords, variables, strings, functions, and comments
+* **Minimal visual noise:** Clean backgrounds and consistent color usage
+* **Accessibility-aware choices:** Follows recommended contrast ratios where applicable
+
+The result is a theme that is comfortable for both beginners and experienced developers.
+
+---
+
+## 🧩 Features
+
+* ✔ Custom syntax highlighting for multiple languages
+* ✔ Optimized contrast for dark-mode environments
+* ✔ Reduced glare and eye fatigue
+* ✔ Clean and consistent UI color palette
+* ✔ Lightweight and fast (no runtime overhead)
+
+---
+
+## 🧑‍💻 Language Support
+
+The theme provides customized syntax highlighting for:
+
+* JavaScript / TypeScript
+* React (JSX / TSX)
+* HTML & CSS
+* JSON
+* Python
+* Java
+* C / C++
+
+Token color rules are carefully tuned to ensure clarity across different language grammars.
+
+---
+
+## 🛠️ Technical Implementation
+
+### Extension Structure
+
+* Built using VS Code’s **theme extension API**
+* Uses JSON-based theme configuration
+* Token scopes mapped to syntax elements
+
+Example configuration areas:
+
+* Editor background & foreground
+* Syntax tokens (keywords, strings, comments)
+* UI elements (tabs, sidebar, status bar)
+
+---
+
+## 🚀 Publishing & Deployment
+
+* Packaged and published using `vsce`
+* Deployed to the **Visual Studio Code Marketplace**
+* Versioned using **Git** and semantic versioning
+* Supports future updates and improvements
+
+This demonstrates experience with **real-world extension lifecycle management**.
+
+---
+
+## 🔄 Maintenance & Updates
+
+* Bug fixes and refinements based on usage feedback
+* Incremental improvements to color contrast
+* Support for additional languages and UI components
+
+---
 
 ## 📦 Installation
-1. Download the `.vsix` file or search `RagCoder Dark` on the marketplace
-2. Install via:
-   ```bash
-   code --install-extension ragcoder-dark-1.0.0.vsix
 
+### From VS Code Marketplace
 
-## 📄 License
+1. Open VS Code
+2. Go to Extensions (`Ctrl + Shift + X`)
+3. Search for the theme name
+4. Click **Install**
+5. Select the theme from the Color Theme menu
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+### Manual Installation
+
+```bash
+code --install-extension your-theme-name.vsix
+```
+
+---
+
+## 📸 Screenshots (Optional)
+
+*Add screenshots showcasing different languages and UI elements to improve presentation.*
+
+---
+
+## 📈 Future Enhancements
+
+* Additional theme variants (lighter / softer contrast)
+* Better semantic token support
+* Community feedback-based improvements
+
+---
+
+## 🎓 What This Project Demonstrates
+
+* Understanding of **developer experience (DX)**
+* Accessibility-conscious UI design
+* VS Code extension ecosystem knowledge
+* Publishing and maintaining a real developer tool
+
+---
+
+## 📬 Contact
+
+For feedback, collaboration, or questions:
+
+**Aditya**
+
+---
+
+⭐ If you like this theme, consider leaving a review on the VS Code Marketplace!
