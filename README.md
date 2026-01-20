@@ -6,8 +6,7 @@ The **VS Code Theme Extension** is a custom-built Visual Studio Code color theme
 
 This project demonstrates practical experience with **VS Code extension development**, design systems, accessibility-aware UI decisions, and real-world deployment through the **VS Code Marketplace**.
 
-🔗 **Marketplace:** *[Add link]*
-🔗 **GitHub Repository:** *[Add link]*
+🔗 **Marketplace:**https://marketplace.visualstudio.com/items?itemName=ragcoder-dev.ragcoder-dark
 
 ---
 
@@ -112,12 +111,6 @@ code --install-extension your-theme-name.vsix
 
 ---
 
-## 📸 Screenshots (Optional)
-
-*Add screenshots showcasing different languages and UI elements to improve presentation.*
-
----
-
 ## 📈 Future Enhancements
 
 * Additional theme variants (lighter / softer contrast)
@@ -132,14 +125,6 @@ code --install-extension your-theme-name.vsix
 * Accessibility-conscious UI design
 * VS Code extension ecosystem knowledge
 * Publishing and maintaining a real developer tool
-
----
-
-## 📬 Contact
-
-For feedback, collaboration, or questions:
-
-**Aditya**
 
 ---
 
