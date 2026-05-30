@@ -2,7 +2,7 @@
   "name": "ragcoder-dark",
   "displayName": "RagCoder Dark",
   "description": "A premium, hyper-vibrant dark theme for VS Code.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "publisher": "ragcoder-dev",
   "icon": "RagCoder_Dark_Logo.png",
   "engines": {
@@ -14,10 +14,12 @@
   "keywords": [
     "dark",
     "theme",
-    "music",
+    "neon",
     "vibrant",
-    "colorful",
-    "tech",
+    "cyberpunk",
+    "midnight",
+    "slate",
+    "glow",
     "modern"
   ],
   "repository": {
