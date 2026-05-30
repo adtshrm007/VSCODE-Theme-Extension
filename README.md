@@ -1,12 +1,20 @@
-# VS Code Theme Extension
+# RagCoder Dark Theme (v2 Hyper-Vibrant Harmony Edition)
 
 ## 📌 Overview
 
-The **VS Code Theme Extension** is a custom-built Visual Studio Code color theme designed to enhance code readability, reduce eye strain, and provide a visually pleasing development experience. The theme follows **accessibility, contrast, and usability guidelines**, making it suitable for long coding sessions.
+The **RagCoder Dark Theme** is a custom-built Visual Studio Code color theme designed to enhance code readability, reduce eye strain, and provide a visually pleasing development experience.
+
+**✨ NEW in v2:** The theme has been completely redesigned with a "Hyper-Vibrant Harmony" aesthetic—combining a deep, elegant Midnight Slate background with intense, glossy neon syntax highlighting for maximum contrast and developer comfort.
 
 This project demonstrates practical experience with **VS Code extension development**, design systems, accessibility-aware UI decisions, and real-world deployment through the **VS Code Marketplace**.
 
-🔗 **Marketplace:**https://marketplace.visualstudio.com/items?itemName=ragcoder-dev.ragcoder-dark
+🔗 **Marketplace:** [RagCoder Dark Theme](https://marketplace.visualstudio.com/items?itemName=ragcoder-dev.ragcoder-dark)
+
+---
+
+## 📸 Demo
+
+![RagCoder Dark Syntax Demo](./demo.png)
 
 ---
 
