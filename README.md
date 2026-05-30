@@ -14,7 +14,7 @@ This project demonstrates practical experience with **VS Code extension developm
 
 ## 📸 Demo
 
-![RagCoder Dark Syntax Demo](./demo.png)
+![RagCoder Dark Syntax Demo](./Demo.png)
 
 ---
 
