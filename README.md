@@ -27,26 +27,26 @@ This project demonstrates practical experience with **VS Code extension developm
 
 ---
 
-## 🎨 Theme Design Philosophy
+## 🎨 Theme Design Philosophy (v2)
 
-The theme is designed with the following principles in mind:
+The V2 upgrade of the theme is designed with the following principles in mind:
 
-* **Balanced contrast:** Avoids extreme brightness or dullness
-* **Clear syntax separation:** Distinct colors for keywords, variables, strings, functions, and comments
-* **Minimal visual noise:** Clean backgrounds and consistent color usage
-* **Accessibility-aware choices:** Follows recommended contrast ratios where applicable
+* **Harmonious Midnight Slate Base:** A deeply sophisticated `#0D1117` background that replaces harsh pure black, providing the perfect canvas to reduce eye strain while supporting high-saturation colors.
+* **Hyper-Vibrant Neon Tokens:** Cranked up saturation for keywords, strings, variables, and functions. They glow like a glossy screen, providing unmistakable, instantaneous syntax recognition.
+* **Premium UI Layering:** Activity bars and panels use slightly darker recessed tones (`#010409`) to frame your code beautifully.
+* **Accessibility-aware contrast:** The neon colors against the deep slate base ensure you can code for hours comfortably without losing the "wow" factor.
 
-The result is a theme that is comfortable for both beginners and experienced developers.
+The result is a theme that feels like a premium, cyberpunk-inspired environment tailored for modern web development.
 
 ---
 
 ## 🧩 Features
 
-* ✔ Custom syntax highlighting for multiple languages
-* ✔ Optimized contrast for dark-mode environments
-* ✔ Reduced glare and eye fatigue
-* ✔ Clean and consistent UI color palette
-* ✔ Lightweight and fast (no runtime overhead)
+* ✔ **Hyper-Vibrant Neon** syntax highlighting for instant pattern recognition
+* ✔ **Deep Midnight Slate** editor background for elegant contrast without clashing
+* ✔ Optimized for React, TypeScript, and modern JS frameworks
+* ✔ Polished UI tokens including a glowing cursor and active tab borders
+* ✔ Rich, colorful terminal ANSI support that perfectly matches the editor palette
 
 ---
 
